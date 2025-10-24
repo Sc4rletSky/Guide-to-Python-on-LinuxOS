@@ -1,6 +1,9 @@
 # Guide-to-Python-on-LinuxOS
 How to create and compile Python on a linux machine
 
+Step 0: Install Python
+  -install python through your native package installer ie `sudo pacman python`
+
 Step 1: install an IDE on Linux
   for this turorial I will be using VScode you can find it at: https://code.visualstudio.com/
   -on arch you can use the command `sudo pacman -S code`
